@@ -12,7 +12,7 @@
 
 🥭风向：{{wind_dir.DATA}} 
 
-距离2023年考研还有{{love_day.DATA}}天 ，加油
+距离2023考研还有{{love_day.DATA}}天 ，成功上岸
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
